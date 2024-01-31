@@ -1,3 +1,3 @@
 let threeLines = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 
-console.log(threeLines);
+threeLines.forEach(threeLines => console.log(threeLines));
