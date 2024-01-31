@@ -3,16 +3,16 @@ const myObject = {
     value: 12,
     incr: function() {
         this.value++;
-    }
+    },
+    output() {
+        return `{ type: '${this.type}', value: ${this.value}${this.incr ? ', incr: [Function]' : ''} }`;
+      }
 };
 
-console.log({ type: myObject.type, value: myObject.value });
-
+console.log(myObject);
 myObject.incr();
-console.log({ type: myObject.type, value: myObject.value, incr: myObject.incr });
-
+console.log(myObject);
 myObject.incr();
-console.log({ type: myObject.type, value: myObject.value, incr: myObject.incr });
-
+console.log(myObject);
 myObject.incr();
-console.log({ type: myObject.type, value: myObject.value, incr: myObject.incr });
+console.log(myObject);
