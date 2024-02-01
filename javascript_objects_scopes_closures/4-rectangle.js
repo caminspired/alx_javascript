@@ -18,12 +18,13 @@ class Rectangle {
     }
 
     rotate () {
-        this.width = this.height;
+        this.width = h;
+        this.height = w;
     }
 
     double () {
-        this.width = w * 2;
-        this.height = h * 2;
+        this.width = w+w;
+        this.height = h+h;
     }
 };
 
