@@ -1,6 +1,6 @@
 const req = require('request');
 
-const characterId = '18'
+const characterId = '18';
 const apiUrl = process.argv[2];
 
 req.get(apiUrl, (error, response, body) => {
