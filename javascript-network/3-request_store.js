@@ -20,6 +20,5 @@ req.get(url, (error, response, body) => {
             console.error('Writing error:', err);
             return;
         }
-        console.log('File save successful!');
     });
 });
