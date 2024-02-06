@@ -18,7 +18,7 @@ req.get(apiUrl, (error, response, body) => {
 
     tasks.forEach(task => {
         if (task.complete) {
-            if (completedTasks[task.userId]){
+            if (completedTasks[task.userId]) {
                 completedTasks[task.userId]++;
             }
             else {
