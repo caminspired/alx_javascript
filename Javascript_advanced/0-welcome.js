@@ -1,5 +1,6 @@
 function welcome (firstName = String, lastName = String) {
-    fullName = (firstName, ' ', lastName);
+    const fullName = firstName + ' ' + lastName;
+    
     function displayFullName () {
         alert('Welcome ', fullName, '!');
 
