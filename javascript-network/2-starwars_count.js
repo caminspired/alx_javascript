@@ -14,8 +14,14 @@ req.get(apiUrl, (error, response, body) => {
         return;
     }
 
-    const movies = JSON.parse(body).results;
-    const count = movies.filter(movie => movie.characters.includes(`https://swapi-api.alx-tools.com/api/people/${characterId}/`)).length;
+    const count = 0;
+    const movies = JSON.parse(body)
+    movies.results.forEach((film) => {
+        film.characters.forEach((character) => {
+            if (character.includes(characterId)){
+                count += 1;
+            }
+        })
+    })
     console.log(count);
-    
 });
