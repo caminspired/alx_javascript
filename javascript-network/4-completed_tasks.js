@@ -17,7 +17,7 @@ req.get(apiUrl, (error, response, body) => {
     const completedTasks = {};
 
     tasks.forEach(task => {
-        if (task.complete) {
+        if (task.completed) {
             if (completedTasks[task.userId]) {
                 completedTasks[task.userId]++;
             }
