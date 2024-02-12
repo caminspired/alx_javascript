@@ -1,25 +1,26 @@
-**PYTHON - OBJECT RELATIONAL MAPPING 1 (PROJECT 22 | WEEK 11)**
+**JAVASCRIPT - OBJECTS, SCOPES, AND, CLOSURES (PROJECT 27 | WEEK 12)**
 
 # INTRODUCTION/OVERVIEW
 
-For this week, we will be learning on Object Relational Mapping and how to connect MySQL to python.
+For this week, we will be learning about JavaScript objects, classes and closure are.
 
 # LEARNING OBJECTIVES
 
-Here, we will be learning how to connect to MySQL database from a python script,
-how to select and insert rows in python, what ORM is and how to map a python class to a MySQL table..
+The main objectives of this project are to understand why JavaScript programming is amazing, how to create an object, what 'this' and undefined mean in javascript. We will also try to underestand why the variable type and scope is important, what closure and prototype are, and how to inherit an object from anothermodule.
 
 # TASKS
 
 The following tasks will need to be completed and checked with the in-built intranet code checker;
 
-0. Get all states(9pts)
-1. Filter states(10pts)
-2. Filter states by user input(12pts)
-3. SQL Injection...(10pts)
-4. Cities by states(9pts)
+0. Rectangle #0(6pts)
+1. Rectangle #1(10pts)
+2. Rectangle #2(10pts)
+3. Rectangle #3(10pts)
+4. Rectangle #4(10pts)
+5. Square #0(10pts)
+6. Square #1(10pts)
 
-# MANUAL REVIEW
+# REVIEW
 
 Like the previous project, each task would need to be reviewed by the automatic checker on the intranet, so once a task is complete, proceed to click on the "check your code" button to receive a score. Please note, you will not receive a score until all fails are corrected and cleared by the checker.
 
@@ -29,17 +30,14 @@ I hope this has been an insightful README and you have all the information neede
 
 # RESOURCES
 
-- [ How to install MySQL 5.7 in Ubuntu 14.04](https://intranet.alxswe.com/rltoken/AlpfGOhmK5bWOPMTw4uSSg)
-- [Object-relational mappers](https://intranet.alxswe.com/rltoken/ZmguqMRVSJghEhTTODumoA)
-- [mysqlclient/MySQLdb documentation (please don’t pay attention to \_mysql)](https://intranet.alxswe.com/rltoken/0cGwFzLsw4-XepmHszm8ow)
-- [How to connect MySQL database in Python](https://intranet.alxswe.com/rltoken/VrMfiFz8ifKYRr-ZtW89Qw)
-- [MySQLdb tutorial](https://intranet.alxswe.com/rltoken/87SU8TLYNO5BQV1sYh_Esg)
-- [SQLAlchemy tutorial](https://intranet.alxswe.com/rltoken/5Dcdb0kxMDRAqINvRth_uA)
-- [SQLAlchemy](https://intranet.alxswe.com/rltoken/5tUblgTy8As4Sp1pcy9iTA)
-- [mysqlclient/MySQLdb](https://intranet.alxswe.com/rltoken/jr5OxZZ5J4eCLn0p6UzTlA)
-- [Introduction to SQLAlchemy](https://intranet.alxswe.com/rltoken/GO-nqcCMnCiohM4VZl0ddg)
-- [Flask SQLAlchemy](https://intranet.alxswe.com/rltoken/ADqCEeu_NzTIN9l0gvtfeg)
-- [10 common stumbling blocks for SQLAlchemy newbies](https://intranet.alxswe.com/rltoken/QFfkVQ3XEutms1qbnYfYwg)
-- [Python SQLAlchemy Cheatsheet](https://intranet.alxswe.com/rltoken/WhH2_AqfzHe_ck5MZfW_yA)
-- [SQLAlchemy ORM Tutorial for Python Developers (Warning: This tutorial is with PostgreSQL, but the concept of SQLAlchemy is the same with MySQL)](https://intranet.alxswe.com/rltoken/4jbkUOWw9U07-LmhJ30LXA)
-- [SQLAlchemy Tutorial](https://intranet.alxswe.com/rltoken/CHewJVpyl6ITrTB-RIglFQ)
+- [JavaScript object basics](https://intranet.alxswe.com/rltoken/GLuVTw6uPEtJoE48v6hh6Q)
+- [Object-oriented JavaScript (read all examples!)](https://intranet.alxswe.com/rltoken/yJvx-KSQmjeLGL_zt2zSRg)
+- [Class - ES6](https://intranet.alxswe.com/rltoken/uQ0wKfDktBpsS52MD_V7Fg)
+- [super - ES6](https://intranet.alxswe.com/rltoken/or2hUFeNS5YYJRbL_7a9Vw)
+- [extends - ES6](https://intranet.alxswe.com/rltoken/DCDrR-o8mV3gaoaxQawYLg)
+- [Object prototypes](https://intranet.alxswe.com/rltoken/tv0EI26HJflBpYlTYpZswQ)
+- [Inheritance in JavaScript](https://intranet.alxswe.com/rltoken/yJvx-KSQmjeLGL_zt2zSRg)
+- [Closures](https://intranet.alxswe.com/rltoken/VUQSL4MeY58nNfFL6yPA_g)
+- [this/self](https://intranet.alxswe.com/rltoken/uduR9j8AJ4jUrKYiucKGlg)
+- [Modern JS](https://intranet.alxswe.com/rltoken/LdHi8ovDOIBTHdTBRhVCww)
+- [ALX SE JavaScript September 1st 2023](https://www.youtube.com/watch?v=Oj5HFfHKBTQ)

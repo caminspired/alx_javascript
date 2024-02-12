@@ -1,27 +1,29 @@
-**PYTHON - OBJECT RELATIONAL MAPPING 1 (PROJECT 22 | WEEK 11)**
+**JAVASCRIPT ADVANCED (PROJECT 29 | WEEK 13)**
 
 # INTRODUCTION/OVERVIEW
 
-For this week, we will be learning on Object Relational Mapping and how to connect MySQL to python.
+For this week, we will be learning about closures, lexical scoping and other advanced JS concepts.
 
 # LEARNING OBJECTIVES
 
-Here, we will be learning how to connect to MySQL database from a python script,
-how to select and insert rows in python, what ORM is and how to map a python class to a MySQL table..
+The main objectives of this project are to understand what lexical scoping and closures are. How to simulate private methods with closures, executenstack orders bind and use callbacks with JavaScript.
 
 # TASKS
 
 The following tasks will need to be completed and checked with the in-built intranet code checker;
 
-0. Get all states(9pts)
-1. Filter states(10pts)
-2. Filter states by user input(12pts)
-3. SQL Injection...(10pts)
-4. Cities by states(9pts)
+0. Lexical scoping and welcome message(11pts)
+1. Closure Scope Chain(19pts)
+2. Closure(13pts)
+3. Closure and loops(12pts)
+4. Complex Closure(17pts)
+5. Changing DOM with closure(26pts)
+6. Private methods with closure(19pts)
+7. Stack order and setTimeout(6pts)
 
 # MANUAL REVIEW
 
-Like the previous project, each task would need to be reviewed by the automatic checker on the intranet, so once a task is complete, proceed to click on the "check your code" button to receive a score. Please note, you will not receive a score until all fails are corrected and cleared by the checker.
+Once this is complete, we will need to show that we are ready for review by selecting the "Ready for my review" tab to enable our peers to review us. Note that, without a manual review the project isincomplete and there will be no grade awarded. You would also need to put in time to review a peer, as it is only right to give what been given to you.
 
 # CONCLUSION
 
@@ -29,17 +31,9 @@ I hope this has been an insightful README and you have all the information neede
 
 # RESOURCES
 
-- [ How to install MySQL 5.7 in Ubuntu 14.04](https://intranet.alxswe.com/rltoken/AlpfGOhmK5bWOPMTw4uSSg)
-- [Object-relational mappers](https://intranet.alxswe.com/rltoken/ZmguqMRVSJghEhTTODumoA)
-- [mysqlclient/MySQLdb documentation (please don’t pay attention to \_mysql)](https://intranet.alxswe.com/rltoken/0cGwFzLsw4-XepmHszm8ow)
-- [How to connect MySQL database in Python](https://intranet.alxswe.com/rltoken/VrMfiFz8ifKYRr-ZtW89Qw)
-- [MySQLdb tutorial](https://intranet.alxswe.com/rltoken/87SU8TLYNO5BQV1sYh_Esg)
-- [SQLAlchemy tutorial](https://intranet.alxswe.com/rltoken/5Dcdb0kxMDRAqINvRth_uA)
-- [SQLAlchemy](https://intranet.alxswe.com/rltoken/5tUblgTy8As4Sp1pcy9iTA)
-- [mysqlclient/MySQLdb](https://intranet.alxswe.com/rltoken/jr5OxZZ5J4eCLn0p6UzTlA)
-- [Introduction to SQLAlchemy](https://intranet.alxswe.com/rltoken/GO-nqcCMnCiohM4VZl0ddg)
-- [Flask SQLAlchemy](https://intranet.alxswe.com/rltoken/ADqCEeu_NzTIN9l0gvtfeg)
-- [10 common stumbling blocks for SQLAlchemy newbies](https://intranet.alxswe.com/rltoken/QFfkVQ3XEutms1qbnYfYwg)
-- [Python SQLAlchemy Cheatsheet](https://intranet.alxswe.com/rltoken/WhH2_AqfzHe_ck5MZfW_yA)
-- [SQLAlchemy ORM Tutorial for Python Developers (Warning: This tutorial is with PostgreSQL, but the concept of SQLAlchemy is the same with MySQL)](https://intranet.alxswe.com/rltoken/4jbkUOWw9U07-LmhJ30LXA)
-- [SQLAlchemy Tutorial](https://intranet.alxswe.com/rltoken/CHewJVpyl6ITrTB-RIglFQ)
+- [Lexical scoping](https://intranet.alxswe.com/rltoken/gtNKxnTsTcqTHxSO7IxG1A)
+- [Closure](https://intranet.alxswe.com/rltoken/nkUIwlOmos3Dp5H48xB8NA)
+- [Call stack](https://intranet.alxswe.com/rltoken/m4N2NfiZaD3DuHT16DXndg)
+- [Binding](https://intranet.alxswe.com/rltoken/e4qDWCEOZPHUGqYizpR0oA)
+- [Callbacks](https://intranet.alxswe.com/rltoken/0FyfBzMjE_PwuHplDFD36A)
+- [ALX SE JavaScript September 12th 2023](https://www.youtube.com/watch?v=SRV9qPaTgGA)
